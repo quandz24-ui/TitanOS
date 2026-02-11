@@ -1,6 +1,14 @@
 [
     {
-        "image": "url('https://xiaomitime.com/wp-content/uploads/2024/11/Xiaomi-HyperOS-2.0.16.0-update-released-with-new-animations.jpg')",
+        "image": "url('/assets/image/3/image.jpg')",
+        "name": "TitanOS 3",
+        "based": "HyperOS 3",
+        "device": "Redmi Note 12s",
+        "downloadLink": "https://t.me/android_tut0rials/349",
+        "id": 3
+    },
+    {
+        "image": "url('/assets/image/2/image.jpg')",
         "name": "TitanOS 2.2",
         "based": "HyperOS 2.2",
         "device": "Redmi Note 11s",
@@ -8,7 +16,7 @@
         "id": 2
     },
     {
-        "image": "url('https://images2.thanhnien.vn/528068263637045248/2025/10/30/hyperos-3-1761789711778168228911.jpg')",
+        "image": "url('/assets/image/1/image.jpg')",
         "name": "TitanOS 3.0",
         "based": "HyperOS 3.0",
         "device": "Redmi Note 11, Redmi Note 11 NFC",

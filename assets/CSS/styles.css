@@ -228,6 +228,10 @@ main {
         height: 0;
         max-height: 600px;
 
+        .item {
+            padding: 0;
+            background-color: unset;
+        }
         .ct {
             position: absolute;
             user-select: none;
@@ -459,5 +463,3 @@ a {
 .bottom50 {
     bottom: 50px;
 }
-
-
