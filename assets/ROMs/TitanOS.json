@@ -1,18 +1,10 @@
 [
     {
-        "image": "url('https://images2.thanhnien.vn/528068263637045248/2025/10/30/hyperos-3-1761789711778168228911.jpg')",
-        "name": "TitanOS 3.0.1.0",
-        "based": "HyperOS 3.0.1.0",
-        "device": "Redmi K40, Poco F3, Xiaomi 11X",
-        "downloadLink": "",
-        "id": 1
-    },
-    {
         "image": "url('https://xiaomitime.com/wp-content/uploads/2024/11/Xiaomi-HyperOS-2.0.16.0-update-released-with-new-animations.jpg')",
         "name": "TitanOS 2.2",
         "based": "HyperOS 2.2",
         "device": "Redmi Note 11s",
-        "downloadLink": "",
+        "downloadLink": "https://t.me/android_tut0rials/308",
         "id": 2
     },
     {
@@ -20,15 +12,7 @@
         "name": "TitanOS 3.0",
         "based": "HyperOS 3.0",
         "device": "Redmi Note 11, Redmi Note 11 NFC",
-        "downloadLink": "",
-        "id": 3
-    },
-    {
-        "image": "url('https://images2.thanhnien.vn/528068263637045248/2025/10/30/hyperos-3-1761789711778168228911.jpg')",
-        "name": "TitanOS 3.0.1.0",
-        "based": "HyperOS 3.0.1.0",
-        "device": "Poco x3",
-        "downloadLink": "",
-        "id": 4
+        "downloadLink": "https://t.me/android_tut0rials/268",
+        "id": 1
     }
 ]

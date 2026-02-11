@@ -295,6 +295,19 @@ function openById(id, trigger) {
 }
 function openDwnLoadLink(id, btn) {
     console.log(id, btn);
+    const rom = Array.isArray(roms) ? roms.find((item) => String(item.id) === String(id)) : null;
+    if (!rom || !rom.downloadLink) {
+        console.warn("Missing download link for ROM id:", id);
+        return;
+    }
+
+    const link = String(rom.downloadLink).trim();
+    if (!link) {
+        console.warn("Empty download link for ROM id:", id);
+        return;
+    }
+
+    window.open(link, "_blank", "noopener,noreferrer");
 }
 
 async function init() {
